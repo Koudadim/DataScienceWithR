@@ -18,6 +18,7 @@
 
   #1. Import the dataset
 getwd()
+
 data<-read.csv("moon.csv")
 str(data)
 View(data)
